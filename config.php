@@ -1,9 +1,0 @@
-<?php
-#set password
-#2019gantikehidupan
-$password_of_script = "lucis";
-
-#set your config
-#akun1
-$refresh_token[] = "AEu4IL2LVRnUUJCV1isc50fwh1JS7WcnLhQOkoTmNSIxLJVpU5KjQQl8DL9xQDdy_Ggdk4D3nVxLHkChKJsL5uwdITF3i21Xu8Hrx4Un8rGDuLjVmXxyyKMiv6FTtMPWFFWD7lG7EiEq2B27mbGS9c83qQA4DRdkDo-qEFKTYLINGcIqiai5NaNbTi1ih4OemBAc-pXq6JdSMJwN6EQCJOh3223Lp8EbzwkDWMSpc7ugCefpiplQfIRnX_9SmdTLpaAuMYQrtXs8n3KCxWyaq7r4RnVAy82okdCySY2wflgnhUeQ9OLW59234yln7MCIA9_qiO4Wtm6C6lGTXUxieF--IORuhf7nrnF0WF7WO2Ui6-oy9q8iw0rGydsLI4auZYJpB4Cx-7Rq9MGZztqc5JB2QxnoWcWR12QRR7CkoE-15WuCP0OgViTm1CcTN6u9wabzBOPOWHEV";
-$device_id[] = "116855051771260921644";
